@@ -10,3 +10,6 @@ Total Sales: $12.64 Million Total Quantity Ordered: 178,000 units Total Profit: 
 Features
 
 Interactive visualizations for easy data exploration Filters and slicers to drill down into specific regions, categories, and time periods
+ #linkedin Profile :https://www.linkedin.com/feed/update/urn:li:activity:7225021158805401600/
+
+post link:https://www.linkedin.com/feed/update/urn:li:activity:7225021158805401600/
